@@ -183,6 +183,4 @@ For production use, consider setting:
 3. Make your changes
 4. Submit a pull request
 
-## Contact
 
-[Add contact information as appropriate for your project]
